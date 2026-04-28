@@ -1,2 +1,5 @@
-# Sleep-Disorder-Classification
-This repository contains the project files for a machine learning-based sleep disorder prediction and classification system developed using Python and the Sleep Prediction dataset obtained from Kaggle.
+## Sleep Disorder Classification from Physiological & Lifestyle Indicators
+
+The dataset contains anonymised clinical records covering sleep health, lifestyle patterns, and physiological measurements. It is used to classify three sleep disorder outcomes: None, Insomnia, and Sleep Apnea. Each record includes wearable-compatible metrics (heart rate, daily steps) alongside clinical assessments (BMI, blood pressure) and self-reported lifestyle data (occupation, stress level, physical activity).
+
+#### Author: Jessica Addy
